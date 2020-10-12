@@ -1,10 +1,10 @@
 {
-  "name": "webApps",
+  "name": "webpps",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "app.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,8 @@
     "url": "https://github.com/adya27/webApp/issues"
   },
   "homepage": "https://github.com/adya27/webApp#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
