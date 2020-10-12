@@ -1,0 +1,24 @@
+{
+  "name": "webApps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adya27/webApp.git"
+  },
+  "keywords": [],
+  "author": "ANDREW <mdipk4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adya27/webApp/issues"
+  },
+  "homepage": "https://github.com/adya27/webApp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
