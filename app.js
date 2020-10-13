@@ -1,6 +1,6 @@
 const express = require("express");
 const exhbrs = require("express-handlebars");
-const products = require("./products.json");
+const products = require("/products.json");
 const PORT = process.env.PORT || 4444;
 
 const app = express();
