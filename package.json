@@ -1,10 +1,10 @@
 {
-  "name": "webpps",
+  "name": "webApp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "app.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/adya27/webApp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "nodemon": "^2.0.4"
+  }
 }
